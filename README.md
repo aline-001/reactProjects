@@ -4,6 +4,7 @@ Week 6: React.js Fundamentals & Component Development
 This repository contains the core projects developed during the React foundations, utilizing modern build tools and advanced React patterns.
 
 Project 1: Personal Professional Portfolio
+
 A responsive personal branding site designed to showcase my skills, projects, and professional journey.
 
 Build Tool: Vite (Optimized for speed and modern development)
