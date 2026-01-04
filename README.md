@@ -20,6 +20,7 @@ Fast Refresh development environment.
 Tech Stack: React.js, Tailwind CSS.
 
 Project 2: Élégance Lady (SheStyle) E-commerce
+
 An intermediate-advanced e-commerce catalog tailored for a luxury brand.
 
 Build Tool: Create React App (CRA)
